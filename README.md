@@ -41,16 +41,7 @@
 
 #### ☕ Programming
 - Java (DSA) {Learnt JAVA before the ChatGPT era}   
-- JavaScript (React,Express)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
-</p>
+- JavaScript {React,Express,Node}
 
 ---
 
@@ -58,7 +49,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/pervez-rahman-a520ba206/
 - Portfolio: https://www.behance.net/pervezrahman2 
-- Mail: text.pervezpr@gmil.com 
+- Mail: text.pervezpr@gmail.com 
 
 ---
 
