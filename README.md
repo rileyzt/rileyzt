@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pervez</h1>
-<h3 align="center">A Passionate Product Designer & Frontend Developer </h3>
+<h3 align="center">Product Designer & Software Developer </h3>
 
 ---
 
 ### 🔥 About Me
 
-- 🎓 Final Year Computer Science Engineering Student  
+- 🎓 Final Year Computer Science Engineering Student  |                                 Currently building FOCUSED
 - 🧠 Product Design enthusiast with a focus on ADHD-friendly interfaces  
 - 🎨 UI/UX Designer | 2 Internships completed (GulMahal, AppAvengers)  
 - 💻 Frontend Developer | Building FOCUSED App (Distraction-blocking productivity tool)  
 - ⚙️ Manual & API Tester | Testing AI Chatbots and Mock APIs with Postman  
 - 🛠 Currently exploring: QA Automation, Expo App Deployment, and Browser Extensions  
-- 💼 Applying for roles in UI/UX Design, Product Management & Software Roles  
+- 💼 Applying for roles in UI/UX Design, Product Management & Software Roles
+   
 
 ---
 
