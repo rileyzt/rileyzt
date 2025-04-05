@@ -40,7 +40,7 @@
 - VS Code | Chrome DevTools
 
 #### ☕ Programming
-- Java (DSA) {Learnt JAVA before the ChatGPT era}   
+- Java (DSA) {Learnt JAVA long before the ChatGPT era}   
 - JavaScript {React,Express,Node}
 
 ---
