@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate Product Designer & Frontend Developer | Final Year CSE Student</h3>
+<h1 align="center">Hi 👋, I'm Pervez</h1>
+<h3 align="center">A Passionate Product Designer & Frontend Developer </h3>
 
 ---
 
@@ -7,11 +7,11 @@
 
 - 🎓 Final Year Computer Science Engineering Student  
 - 🧠 Product Design enthusiast with a focus on ADHD-friendly interfaces  
-- 🎨 UI/UX Designer | 2 Internships completed (GulMahal, 32nd)  
+- 🎨 UI/UX Designer | 2 Internships completed (GulMahal, AppAvengers)  
 - 💻 Frontend Developer | Building FOCUSED App (Distraction-blocking productivity tool)  
 - ⚙️ Manual & API Tester | Testing AI Chatbots and Mock APIs with Postman  
 - 🛠 Currently exploring: QA Automation, Expo App Deployment, and Browser Extensions  
-- 💼 Applying for roles in UI/UX Design, Product Management & Frontend Engineering  
+- 💼 Applying for roles in UI/UX Design, Product Management & Software Roles  
 
 ---
 
@@ -39,9 +39,8 @@
 - VS Code | Chrome DevTools
 
 #### ☕ Programming
-- Java (OOPs, DS)  
-- C (With Input Examples)  
-- JavaScript (ES6+)
+- Java (DSA) {Learnt JAVA before the ChatGPT era}   
+- JavaScript (React,Express)
 
 ---
 
@@ -56,11 +55,11 @@
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]  
-- Portfolio: [Your Portfolio URL if any]  
-- Mail: [your_email@example.com]  
+- LinkedIn: https://www.linkedin.com/in/pervez-rahman-a520ba206/
+- Portfolio: https://www.behance.net/pervezrahman2 
+- Mail: text.pervezpr@gmil.com 
 
 ---
 
-⭐️ _Driven by Curiosity, Designed with Empathy, Built with Passion._
+⭐️ _Driven by Curiosity, Designed with Empathy, Built with Passion. TO MAKE MONEY_
 
