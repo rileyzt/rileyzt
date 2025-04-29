@@ -48,7 +48,7 @@
 ### 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/pervez-rahman-a520ba206/
-- Portfolio: https://www.behance.net/pervezrahman2 
+- Portfolio: https://dribbble.com/pervezpr
 - Mail: text.pervezpr@gmail.com 
 
 ---
