@@ -5,7 +5,7 @@
 
 ### 🔥 About Me
 
-- 🎓 Final Year Computer Science Engineering Student  |                                 Currently building FOCUSED
+- 🎓 Final Year Computer Science Engineering Student  |                                 Currently building PrecisionHunt.ai
 - 🧠 Product Design enthusiast with a focus on ADHD-friendly interfaces  
 - 🎨 UI/UX Designer | 2 Internships completed (GulMahal, AppAvengers)  
 - 💻 Frontend Developer | Building FOCUSED App (Distraction-blocking productivity tool)  
