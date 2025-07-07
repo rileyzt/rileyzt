@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pervez</h1>
-<h3 align="center">Product Designer & Software Developer </h3>
+<h3 align="center">Product Designer, Software Developer & AI Agent </h3>
 
 ---
 
