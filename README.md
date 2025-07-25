@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pervez</h1>
-<h3 align="center">Dev by Day, Agent of AI by Nightr</h3>
+<h3 align="center">Dev by Day, Agent of AI by Night</h3>
 
 ---
 
