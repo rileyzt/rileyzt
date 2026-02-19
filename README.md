@@ -6,8 +6,8 @@
 ### 🔥 About Me
 
 - 🎓 CSE Grad | Currently building AI agents & tools
-- 🧠 SWE Intern (Remote) @ MetaStart (AI SaaS Startup)
-- 🤖 Creator of EVA (ERP AI Assistant) & PrecisionHunt.ai (AI Job Agent)
+- 🧠 Incoming Software Dev @ Wipro
+- 🤖 Building livre.ai
 - ☁️ Full-stack dev in progress | Working with Node.js, Express & React
 - ⚙️ Love building AI chat agents that do real work (job search, resume matching, SAP ERP support)
 - 🛠 Currently exploring: LLM tools, LangChain, Prompt Engineering & Backend APIs  
