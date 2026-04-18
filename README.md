@@ -7,7 +7,7 @@
 
 - 🎓 CSE Grad | Currently building AI agents & tools
 - 🧠 Incoming Software Dev @ Wipro
-- 🤖 Building livre.ai
+- 🤖 Building https://billauditai.com/
 - ☁️ Full-stack dev in progress | Working with Node.js, Express & React
 - ⚙️ Love building AI chat agents that do real work (job search, resume matching, SAP ERP support)
 - 🛠 Currently exploring: LLM tools, LangChain, Prompt Engineering & Backend APIs  
